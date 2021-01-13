@@ -3,7 +3,7 @@
 - 🌱 I’m learning Python, Java and C. Currently with focus on Web Development.
 - 📫 How to reach me: teles967@gmail.com or wtaj@discente.ifpe.edu.br
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=williamteles&show_icons=true&hide_title=true&theme=tokyonight)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=williamteles&show_icons=true&hide_title=true&hide=contribs,issues&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamteles&layout=compact&theme=tokyonight)
 
 <!--
