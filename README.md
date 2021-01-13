@@ -4,7 +4,7 @@
 - 📫 How to reach me: teles967@gmail.com or wtaj@discente.ifpe.edu.br
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=williamteles&show_icons=true&hide_title=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamteles&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamteles&layout=compact&theme=tokyonight)
 
 <!--
 **williamteles/williamteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
