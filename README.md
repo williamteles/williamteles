@@ -1,8 +1,8 @@
 ### What's up? 👋
 
 - 🔭 I program in Python, Java and C.
-- 🌱 I’m currently with focus on learning Web Development.
-- 📫 How to reach me: teles967@gmail.com or wtaj@discente.ifpe.edu.br
+- 🌱 I’m currently with focus on Machine Learning.
+- 📫 How to reach me: teles967@gmail.com or wtaj@ecomp.poli.br
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=williamteles&show_icons=true&hide_title=true&hide=contribs,issues&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamteles&layout=compact&theme=tokyonight)
